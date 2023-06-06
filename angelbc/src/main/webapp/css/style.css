@@ -1,0 +1,307 @@
+header{
+	height: 120px;
+	border: 1px solid grey;
+}
+h1{
+	color: grey;
+	font-size: 60px;
+	text-align: center;
+	margin: 25px;
+}
+#logo{
+	color: grey;
+	width: 150px;
+	height: 150px;
+	border: 1px solid grey;
+}
+ul{
+	text-align: center;
+	margin-top: 60px;
+}
+#contenedor{
+	display: flex;
+}
+#botones{
+	color: grey;
+	margin-left: 20px;
+	border: 1px solid grey;
+	font-size: 27px;
+	padding: 10px;
+	text-decoration: none;
+}
+
+#contenedor2{
+	margin-left:38px;
+	margin-top: 15px;
+	height: 300px;
+	width: 70px;
+	margin-top: 40px;
+}
+
+#años{
+	color: grey;
+	font-size: 20px;
+	line-height: 50px;
+}
+
+#section1{
+	display: flex;
+	margin-left: 100px;
+	margin-right: 38px;
+	margin-top: -340px;
+}
+
+#section2{
+	display: flex;
+	margin-left: 100px;
+	margin-right: 38px;
+	margin-top: 40px;
+}
+
+p{
+	color: black;
+}
+
+/*Formato de 6 imágenes*/
+
+#imgh{
+	height: 250px;
+	margin: 0 auto;
+	border: 1px solid grey;
+	margin-top: 60px;
+}
+
+#imgv{
+	margin: 0 auto;
+	border: 1px solid grey;
+	margin-top: -10px;
+}
+
+#horizontal{
+	height: 180px;
+	width: 230px;
+}
+
+#vertical{
+	height: 230px;
+	width: 180px;
+}
+
+/*Formato de 5 imágenes*/
+
+#imgh5{
+	height: 250px;
+	margin: 0 auto;
+	border: 1px solid grey;
+	margin-top: 60px;
+}
+
+#imgv5{
+	margin: 0 auto;
+	border: 1px solid grey;
+	margin-top: -10px;
+}
+
+#horizontal5{
+	height: 180px;
+	width: 230px;
+}
+
+#vertical5{
+	height: 230px;
+	width: 180px;
+}
+
+/*Formato de 4 imágenes*/
+
+#imgh4{
+	height: 250px;
+	margin: 0 auto;
+	border: 1px solid grey;
+	margin-top: 60px;
+}
+
+#imgv4{
+	margin: 0 auto;
+	border: 1px solid grey;
+	margin-top: -10px;
+}
+
+#horizontal4{
+	height: 180px;
+	width: 230px;
+}
+
+#vertical4{
+	height: 230px;
+	width: 180px;
+}
+
+/*Formato de 3 imágenes*/
+
+#imgh3{
+	height: 500px;
+	margin: 0 auto;
+	border: 1px solid grey;
+	margin-top: 60px;
+}
+
+#imgv3{
+	height: 550px;
+	margin: 0 auto;
+	border: 1px solid grey;
+	margin-top: 60px;
+}
+
+#horizontal3{
+	height: 240px;
+	width: 310px;	
+}
+
+#vertical3{
+	height: 360px;
+	width: 210px;	
+}
+
+/*Formato de 2 imágenes*/
+
+#imgh2{
+	height: 250px;
+	margin: 0 auto;
+	border: 1px solid grey;
+	margin-top: 60px;
+}
+
+#imgv2{
+	margin: 0 auto;
+	border: 1px solid grey;
+	margin-top: -10px;
+}
+
+#horizontal2{
+	height: 180px;
+	width: 230px;
+}
+
+#vertical2{
+	height: 230px;
+	width: 180px;
+}
+
+/*Formato de 1 imagen*/
+
+#imgh1{
+	height: 450px;
+	margin: 0 auto;
+	border: 1px solid grey;
+	margin-top: 120px;
+}
+
+#imgv1{
+	margin: 0 auto;
+	border: 1px solid grey;
+	margin-top: 120px;
+}
+
+#horizontal1{
+	height: 380px;
+	width: 430px;
+}
+
+#vertical1{
+	height: 430px;
+	width: 380px;
+}
+
+/*Pensamientos*/
+
+#titulo{
+	color: grey;
+}
+
+#texto{
+	color: grey;
+}
+
+/*Contacto*/
+
+#contacto{
+	height: 300px;
+	width: 800px;
+	margin: auto;
+	margin-top: -260px;
+}
+
+form{
+    margin: .5em auto;
+    width: 50%;
+}
+
+fieldset{
+    border: 2px solid grey;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+#tituloformulario{
+    color: grey;
+    font-size: 2em;
+}
+
+label{
+    font-family: sans-serif;
+    color: grey;
+    cursor: pointer;
+}
+
+#footercontacto{
+	border: 1px solid grey;
+	justify-content: space-between;
+	font-family: Verdana;
+	border-radius: 20px;
+	margin-top: 200px;
+}
+
+/*Acerca de*/
+
+#imgvp{
+	height: 550px;
+	width: 1000px;
+	margin: 0 auto;
+	border: 1px solid grey;
+	margin-top: 60px;
+}
+
+/*Footer*/
+
+footer{
+border: 1px solid grey;
+justify-content: space-between;
+font-family: Verdana;
+border-radius: 20px;
+margin-top: 30px;
+}
+
+#copyright{
+	color: grey;
+	font-size: 10px;
+	margin-left: 10px;
+	padding: 5px;
+}
+
+#redesfooter{
+	color: grey;
+	font-size: 10px;
+	padding: 5px;
+	margin-right:  10px;
+	float: right;
+	margin-top: -35px;
+}
+
+#redes{
+	height: 30px;
+	width: 30px;
+	float: right;
+	margin-right: 20px ;
+	margin-top: -15px;
+}
